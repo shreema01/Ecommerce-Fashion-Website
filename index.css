@@ -23,7 +23,8 @@ header {
 .nav_bar {
     display: flex;
     flex-grow:1;
-    min-width: 500px;
+    /* min-width: 500px; */
+    max-width: 500px;
     justify-content: space-evenly;
 }
 .nav_bar a {
