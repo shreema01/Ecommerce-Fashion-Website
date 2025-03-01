@@ -27,6 +27,7 @@ header {
     justify-content: space-evenly;
 }
 .nav_bar a {
+
     font-size: 14px;
     letter-spacing: .3px;
     color: #282c3f;
@@ -35,6 +36,7 @@ header {
     text-decoration: none;
     padding: 28px 0;
     border-bottom: 5px solid #ffffff;
+    
 }
 .nav_bar a:hover {
     border-bottom: 4px solid #f54e77;
